@@ -20,6 +20,8 @@ Bitte sende mir nach dem Test:
 - Optional: Screenshots bei Problemen
 - wie es dir gefallen hat
 
+https://ugur515.github.io/coinly-privacy/
+
 Danke für deine Unterstützung!
 
 — Ugur
