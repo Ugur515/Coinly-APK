@@ -1,4 +1,4 @@
-# Coinly-APK# Coinly APK Release
+# Coinly APK Release
 
 Dies ist die **Testversion** der Coinly App.  
 Dieses Repository enthält **nur die APK-Datei**, kein Quellcode.
